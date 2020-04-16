@@ -1,1 +1,1 @@
-A simple schema for Airline Ticket Booking
+A simple schema for Airline Ticket Booking. Designed with SQL
